@@ -1,3 +1,9 @@
+# system phosphate buffer 6.8 pH
+# host in cell: beta-cyclodextrin 5 mM
+# guest in syringe: n-octylamine 75 mM
+# 25 injection of 10 µL
+
+
 aDH	INJV	Xt	Mt	XMt	NDH
 -212.52042	10	0	5	0.0515	-566.72112
 -224.33651	10	0.25573	4.9659	0.10334	-598.2307
